@@ -1,0 +1,46 @@
+.todo_list_main_wraper {
+    font-size: 14px;
+    width: 50%;
+    text-align: left;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.todo_list_header {
+    font-size: 2em;
+}
+
+.todo_list_content{
+    background: #CCC;
+    padding: 10px 5px;
+    border: 
+}
+
+.todo_list_input{
+    width: 80%;
+    margin: 10px 0px;
+    padding: 5px;
+}
+
+.todo_list_input-existing_task{
+    background: #EEE;
+    color: gray;
+}
+
+.todo_list_input-new_task{
+    background: #FFF;
+}
+
+.todo_list_button{
+    width: 20%;
+    color: #FFF;
+    padding: 6px;
+}
+
+.todo_list_button-existing_task{
+    background: #000;
+}
+
+.todo_list_button-new_task{
+    background: #7dc57d;
+}
