@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an exercise example used for educational purposes.
+This proyect implements a simple TODO list using states.
+
 ## Available Scripts
 
 In the project directory, you can run:
